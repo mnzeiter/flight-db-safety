@@ -44,7 +44,7 @@ flight-db-safety /
 ```
 
 ## 📷 Screenshots / ERD
-![ERD](erd.png)
+![ERD](ERD.png)
 
 ---
 
